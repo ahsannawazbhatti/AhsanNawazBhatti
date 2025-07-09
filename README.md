@@ -2,6 +2,19 @@
 
 I specialize in building high-performance, user-centric websites and applications using technologies like **React.js**, **PHP**, **Flutter** and **WordPress**. My passion lies in creating seamless user experiences by combining modern front-end interfaces with powerful and scalable back-end systems.
 
+
+---
+
+## 🏢 Collaborative & Freelance Work
+
+Check out my collaborative & freelance work on [**abhatti**](https://github.com/abhattipressmind)  — a company-owned profile, where I develop enterprise-level WordPress-based systems, custom themes, and scalable travel solutions. Our work includes developing modern themes and dynamic content modules for renowned German travel brands like:
+
+- **Wörlitz Tourist**
+- **Weilke Touristik**
+- **Janssen Reisen**
+
+This collaboration involves Docker-based development, ACF/Beaver Builder customization, REST APIs, and modular code practices to ensure performance, maintainability, and a great user experience.
+
 ---
 
 ## 🛠️ Technologies & Tools
