@@ -60,7 +60,7 @@ This collaboration involves Docker-based development, ACF/Beaver Builder customi
 ![Agile](https://img.shields.io/badge/Agile-33B2FF?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
-
+<a id="featured-projects"></a>
 ## 📌 Featured Projects
 
 - [**Woerlitz Tourist**](https://development-woerlitztourist-de.pressmind.dev/): WordPress + ACF + Custom itinerary module + Infinite scroll  
