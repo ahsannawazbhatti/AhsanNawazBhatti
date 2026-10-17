@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Ahsan Nawaz Bhatti — Full-Stack Web Developer
 
-I specialize in building high-performance, user-centric websites and applications using technologies like **React.js**, **PHP**, **Flutter** and **WordPress**. My passion lies in creating seamless user experiences by combining modern front-end interfaces with powerful and scalable back-end systems.
+I specialize in building high-performance, user-centric websites and applications using technologies like **React.js**,**Python**, **PHP**, **Flutter** and **WordPress**. My passion lies in creating seamless user experiences by combining modern front-end interfaces with powerful and scalable back-end systems.
 
 
 ---
